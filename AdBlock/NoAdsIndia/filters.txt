@@ -1,0 +1,88 @@
+!
+! Title: IND: NoAdsIndia
+! Description: Filter for blocking ads on Indian websites
+! Version: 1.0.0.0
+! Homepage: https://github.com/nirojhub/BlockAds
+! Last modified: 2024-07-08T03:06:17.196Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.26
+!
+! Source name: NoAdsIndia
+! Source: 
+!
+||adgoogle.net^
+||googleadservices.com^
+||googleadservices-cn.com^
+||googlevads-cn.com^
+||www.ad.doubleclick.ne^
+/^r[0123456789]+((-{3})|(.))sn-.{8}.googlevideo.com$/
+||licious.in^
+||mindvalley.com^
+||muscleblaze.com^
+||onepercentclub.io^
+||promo.worldofwarships.asia^
+||hostinger.in^
+||brands-in.shortlyst.com^
+||thesleepcompany.in^
+||worldenvironmentday.globe^
+||parallels.com^
+||devgadhvi10x.com^
+||officemaster.in^
+||donatekart.com^
+||grammarly.com^
+||rajivtalreja.co.in^
+/(\.|^)safeframe\.googlesyndication\.com$/
+||hi.hostinger.in^
+||bigbang.sale^
+||konnifel.com^
+||sklep.enigmaonline.pl^
+||eo.avadhutsathe.com^
+||yt3.ggpht.com^
+||createstudio.com^
+||domestika.org^
+||register.sandbox.game^
+||b0eb63.xyz^
+||0.html-load.com^
+||privatily.com^
+||www.colgate.com^
+||cars.tatamotors.com^
+||vrpspeed.com^
+||unison.audio/midi^
+||mindvalley.com^
+||partners.getmoredonations.org^
+||devgadhvipassionpreneur.com^
+||malabargoldanddiamonds.com^
+||signup.ruchirgupta.co.in^
+||mi.com^
+||scaler.com^
+||scalar.com^
+||give.do^
+||milaap.org^
+||kapiva.in^
+||click2cart.in^
+||learn.jatanshah.com^
+||meghanadikshit.sgacademy.info^
+||5daysclass.com^
+||theuniquestorrs.com^
+||compoundyourmoney.com^
+||go.todaysgreenlivingtips.com^
+||graph.facebook.com^
+||mqtt-mini.facebook.com^
+||tvsmotors.com^
+||link.stoxbox.in^
+||promo.worldofworships.asia^
+||membership.clubmahindra.com^
+||wtfast.com^
+||jacksonmachine.in^
+||licious.in^
+||tvseurogrip.com^
+||kf.life^
+||www.bluestone.com^$important
+||powerofhappythoughts.org^
+||workshop.coachmanjunath.com^$important
+!
+! Special block section (Remove @@ from the prefix of the filters to block ads from the below list)
+!
+@@||instagram.com^$important
+@@||facebook.com^$important
+@@||myntra.com^
